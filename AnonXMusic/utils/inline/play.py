@@ -32,25 +32,25 @@ def stream_markup_timer(_, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
     if 0 < umm <= 10:
-        bar = "Ⓐ▰▱▱▱▱▱▱▱▰"
+        bar = "Ⓗ︎▰▱▱▱▱▱▱▱▰"
     elif 10 < umm < 20:
-        bar = "▰Ⓐ▱▱▱▱▱▱▱▰"
+        bar = "▰Ⓗ︎▱▱▱▱▱▱▱▰"
     elif 20 <= umm < 30:
-        bar = "▰▱Ⓐ▱▱▱▱▱▱▰"
+        bar = "▰▱Ⓗ︎▱▱▱▱▱▱▰"
     elif 30 <= umm < 40:
-        bar = "▰▱▱Ⓐ▱▱▱▱▱▰"
+        bar = "▰▱▱Ⓗ︎▱▱▱▱▱▰"
     elif 40 <= umm < 50:
-        bar = "▰▱▱▱Ⓐ▱▱▱▱▰"
+        bar = "▰▱▱▱Ⓗ︎▱▱▱▱▰"
     elif 50 <= umm < 60:
-        bar = "▰▱▱▱▱Ⓐ▱▱▱▰"
+        bar = "▰▱▱▱▱Ⓗ︎▱▱▱▰"
     elif 60 <= umm < 70:
-        bar = "▰▱▱▱▱▱Ⓐ▱▱▰"
+        bar = "▰▱▱▱▱▱Ⓗ︎▱▱▰"
     elif 70 <= umm < 80:
-        bar = "▰▱▱▱▱▱▱Ⓐ▱▰"
+        bar = "▰▱▱▱▱▱▱Ⓗ︎▱▰"
     elif 80 <= umm < 95:
-        bar = "▰▱▱▱▱▱▱▱Ⓐ▰"
+        bar = "▰▱▱▱▱▱▱▱Ⓗ︎▰"
     else:
-        bar = "▰▱▱▱▱▱▱▱▰Ⓐ"
+        bar = "▰▱▱▱▱▱▱▱▰Ⓗ︎"
     buttons = [
         [
             InlineKeyboardButton(
@@ -69,14 +69,14 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text="ᴜᴘᴅᴀᴛᴇ",
 
-                url=f"t.me/{OWNER_USERNAME}",
+                url=f"t.me/Satan_Network",
 
             ),
             InlineKeyboardButton(
 
                 text="sᴜᴘᴘᴏʀᴛ",
 
-                url=f"{SUPPORT_CHAT}",
+                url=f"t.me/Satan_Fucker",
 
             ),
         ],
@@ -98,14 +98,14 @@ def stream_markup(_, chat_id):
 
                 text="ᴜᴘᴅᴀᴛᴇ",
 
-                url=f"t.me/{OWNER_USERNAME}",
+                url=f"t.me/satan_network",
 
             ),
             InlineKeyboardButton(
 
                 text="sᴜᴘᴘᴏʀᴛ",
 
-                url=f"{SUPPORT_CHAT}",
+                url=f"t.me/satan_fucker",
 
             ),
         ],
