@@ -11,7 +11,7 @@ from typing import Union, Optional
 
 EVAA = [
     [
-        InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/nykaaxbot?startgroup=true"),
+        InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/hanmaXrobot?startgroup=true"),
     ],
 ]
 
@@ -63,7 +63,7 @@ font_path = "AnonXMusic/assets/hiroko.ttf"
 
 
 INFO_TEXT = """
-ㅤ   ◦•●◉✿ ᴜsᴇʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ  ✿◉●•◦
+ㅤ   乂 ◉ 乂 炎 ᴜsᴇʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ 炎 乂 ◉ 乂
 ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▰
   
 ● ᴜsᴇʀ ɪᴅ ➥ {}
@@ -72,7 +72,7 @@ INFO_TEXT = """
 ● ᴜsᴇʀ sᴛᴀᴛᴜs ➥ {}
 ● ᴜsᴇʀ ᴅᴄ ɪᴅ ➥ {}
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ๛ᴀ ᴠ ɪ s ʜ ᴀ ࿐
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ๛ʜ ᴀ ɴ ᴍ ᴀ ࿐
 ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▰
 """
 
