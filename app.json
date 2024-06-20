@@ -1,7 +1,7 @@
 {
-    "name": "HANMA MUSIC",
-    "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
+    "name": "HANMA ROBOT",
+    "description": "A Telegram Bot, written in Python with Pyrogram and Py-Tgcalls.",
+    "logo": "https://telegra.ph/file/e7d1778eb48797563fa0f.jpg",
     "keywords": [
     "python3",
     "telegram",
